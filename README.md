@@ -9,4 +9,6 @@ When I am not diving down the rabbit hole that is IT, I like to explore nature a
 👀 You can catch me blogging about Azure or Microsoft 365 @ http://randybordeaux.com
 
 
-
+<div style="width:60px ; height:60px">
+![Microsoft Certified Trainer](bordera-randy/img/mct.png?raw=true "Microsoft Certified Trainer")
+<div>
