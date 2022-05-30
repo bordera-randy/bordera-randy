@@ -9,7 +9,7 @@ When I am not diving down the rabbit hole that is IT, I like to explore nature a
 👀 You can catch me blogging about Azure or Microsoft 365 @ http://randybordeaux.com
 
 
-<div style="width:60px ; height:60px">
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/mct.png" height="60" width="60" >
+<div style="width:100px ; height:1000px">
+  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/mct.png" height="100" width="100" > <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/az-solutionsarchiect.png" height="100" width="100" > 
 
 <div>
