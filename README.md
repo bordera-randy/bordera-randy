@@ -10,6 +10,6 @@ When I am not diving down the rabbit hole that is IT, I like to explore nature a
 
 
 <div style="width:60px ; height:60px">
-  <img src="[bordera-randy/img/mct.png](https://github.com/bordera-randy/bordera-randy/blob/main/img/mct.png)" height="60" width="60" >
+  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/mct.png" height="60" width="60" >
 
 <div>
