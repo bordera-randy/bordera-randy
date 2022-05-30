@@ -10,5 +10,6 @@ When I am not diving down the rabbit hole that is IT, I like to explore nature a
 
 
 <div style="width:60px ; height:60px">
-![Microsoft Certified Trainer](bordera-randy/img/mct.png?raw=true "Microsoft Certified Trainer")
+  <img src="bordera-randy/img/mct.png" height="60" width="60" >
+
 <div>
