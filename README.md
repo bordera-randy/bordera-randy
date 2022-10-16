@@ -1,6 +1,20 @@
 👋 Hi, welcome to the rabbit hole!
 
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/rrbordeaux/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/rrbordeaux">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="https://randybordeaux.com/">
+    <img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=Website&logoColor=white" alt="Website Badge"/>
+  </a>
+</div>  
+
+---
+
 I am a Microsoft Certified Trainer (MCT) currently in Colorado, USA. I travel quite a bit and split my time between being a digital nomad and enjoying Colorado. Apart from teaching Microsoft Azure classes, I can be found consulting or supporting my customers at a software company. My passion is to find ways to automate the day to day, and free myself and colleagues up for more important things. I love to teach and travel.
 
 If you are looking to study Azure and working on your certifications, check out this Telegram Azure Study Group https://t.me/studygroupazure 
@@ -11,9 +25,9 @@ I was instilled with a drive to learn and to help others. I grandfather establis
 
 When I am not diving down the rabbit hole that is IT, I like to explore nature and enjoy photography. If you are interested check out the Photography page here for some of my photos.
 
-👀 You can catch me blogging about Azure or Microsoft 365 @ http://randybordeaux.com
 
-
+---
+<br>
 <div style="width:100px ; height:1000px">
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/mct.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/az-solutionsarchitect.png" height="100" width="100" > 
@@ -25,9 +39,10 @@ When I am not diving down the rabbit hole that is IT, I like to explore nature a
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/ms-enterpriseadmin.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/ms-TeamsAdministrator.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/ms-fundamentals.png" height="100" width="100" > 
+</div> 
   
-  
-<div>
+---
+<br>
 
 ### :fire: My Stats :  :fire:
 
@@ -38,3 +53,4 @@ When I am not diving down the rabbit hole that is IT, I like to explore nature a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bordera-randy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+</div> 
