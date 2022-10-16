@@ -29,7 +29,7 @@ When I am not diving down the rabbit hole that is IT, I like to explore nature a
   
 <div>
 
-### :fire: My Stats :
+### :fire: My Stats :  :fire:
 
 [![Lee Stott GitHub stats](https://github-readme-stats.vercel.app/api?username=bordera-randy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
