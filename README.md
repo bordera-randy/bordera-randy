@@ -23,7 +23,7 @@ I am a seasoned professional and Military Veteran with 19+ years of IT managemen
 
 I was instilled with a drive to learn and to help others. I grandfather established the first computer program at the local community college where I grew up. I later was in the same program. I went on to join the U.S. Navy where I was an IT instructor amoung other things. More recently I have become a Microsoft Certified Trainer and specialize in Azure. 
 
-When I am not diving down the rabbit hole that is IT, I like to explore nature and enjoy photography. If you are interested check out the Photography page [here](http:\\ramdybordeaux.com) for some of my photos.
+When I am not diving down the rabbit hole that is IT, I like to explore nature and enjoy photography. If you are interested check out the Photography page [here](http:\\randybordeaux.com) for some of my photos.
 
 
 ---
