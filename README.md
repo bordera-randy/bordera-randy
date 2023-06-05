@@ -54,6 +54,7 @@ When I am not diving down the rabbit hole that is IT, I like to explore nature a
   <br>
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-onboarding.1.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e1-badge%20(1).png" height="100" width="100" > 
+  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e2-badge.png" height="100" width="100" > 
 </div> 
   
   
