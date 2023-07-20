@@ -59,7 +59,8 @@ When I am not diving down the rabbit hole that is IT, I like to explore nature a
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/new-rank-senior-kusto-detective.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/new-rank-kusto-senior-detective-ii.png" height="100" width="100" > 
   <br>
-    <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/Six%20Sigma%20Green%20Belt.svg" height="100" width="100" > 
+  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/Six%20Sigma%20Green%20Belt.svg" height="100" width="100" > 
+  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/Six%20Sigma%20Yellow%20Belt.svg" height="100" width="100" > 
 </div> 
   
   
