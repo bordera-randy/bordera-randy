@@ -63,8 +63,7 @@ When I am not diving down the rabbit hole that is IT, I like to explore nature a
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/Six%20Sigma%20Green%20Belt.svg" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/Six%20Sigma%20Yellow%20Belt.svg" height="100" width="100" >
   <br>
-  <img src="img/comptia-a-certification.5.png![image](https://github.com/bordera-randy/bordera-randy/assets/48829240/d5cdd9ef-3e4a-44d4-80de-890832d9354f)
-" height="100" width="100" > 
+  <img src="/img/comptia-a-certification.5.png" height="100" width="100" > 
 </div> 
   
   
