@@ -50,8 +50,8 @@ When I am not diving down the rabbit hole that is IT, I like to explore nature a
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-case-4-badge.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-case-5-badge.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-complete.png" height="100" width="100" > 
-  <br>
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/Security Agent.png" height="100" width="100" > 
+    
   <br>
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-onboarding.1.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e1-badge%20(1).png" height="100" width="100"> 
