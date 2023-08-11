@@ -19,7 +19,7 @@ I am a Microsoft Certified Trainer (MCT) currently in Colorado, USA. I travel qu
 
 If you are looking to study Azure and working on your certifications, check out this Telegram Azure Study Group https://t.me/studygroupazure
 
-Join The Lowdon Lab on discord!
+Join The Lowdon Lab on discord!  
 Discord [https://discord.gg/thelowdownlab](https://discord.gg/thelowdownlab)
 
 I am a seasoned professional and Military Veteran with 19+ years of IT management and technical support experience in various sectors. I have worked mostly with Managed Service Providers in the legal, financial, and energy vectors. I am currently diving into DevOps and Kubernetes to provide SaaS at a global software company.
