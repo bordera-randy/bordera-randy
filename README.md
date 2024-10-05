@@ -38,7 +38,9 @@ Or you might catch me trying my hand at fantasy writing
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/az-securityengineer.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/az-fundamentals.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/security-compliance-and-identity-fundamentals-600x600.png" height="100" width="100" >  
+  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/sc100.png" height="100" width="100" >  
   
+
   <br>
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/ms-enterpriseadmin.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/ms-TeamsAdministrator.png" height="100" width="100" > 
