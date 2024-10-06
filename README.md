@@ -33,12 +33,13 @@ Or you might catch me trying my hand at fantasy writing
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/microsoft-certified-trainer-2023-2024.png" height="100" width="100" > 
   
   <br>
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/az-solutionsarchitect.png" height="100" width="100" > 
+  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/az-solutionsarchitect.png" height="100" width="100" >
+  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/sc100.png" height="100" width="100" >  
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/az-admin.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/az-securityengineer.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/az-fundamentals.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/security-compliance-and-identity-fundamentals-600x600.png" height="100" width="100" >  
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/sc100.png" height="100" width="100" >  
+  
   
 
   <br>
