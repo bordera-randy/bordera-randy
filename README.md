@@ -15,7 +15,7 @@
 
 ---
 
-I am a Microsoft Certified Trainer (MCT) currently in Colorado, USA. I travel quite a bit and split my time between being a digital nomad and enjoying Colorado. Apart from teaching Microsoft Azure classes, I can be found consulting or supporting my customers at a software company. My passion is to find ways to automate the day to day, and free myself and colleagues up for more important things. I love to teach and travel.
+I am a Microsoft Certified Trainer (MCT) currently in the Dallas-Fort Worth Metro area, USA. I travel quite a bit and split my time between being a digital nomad and enjoying Texas. Apart from teaching Microsoft Azure classes, I can be found consulting or providing DevOps automation at a medical company.. My passion is to find ways to automate the day to day, and free myself and colleagues up for more important things. I love to teach and travel.
 
 I am a seasoned professional and Military Veteran with 20+ years of IT management and technical support experience in various sectors. I have worked mostly with Managed Service Providers in the legal, financial, and energy vectors. I am currently diving into DevOps and Kubernetes to provide SaaS at a global software company.
 
