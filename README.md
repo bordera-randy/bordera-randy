@@ -68,6 +68,10 @@ Or you might catch me trying my hand at fantasy writing
   <img src="/img/kusto-detective-agency-s2e8-badge.png" height="100" width="100" > 
   <img src="/img/kusto-detective-agency-s2e9-badge.png" height="100" width="100" > 
   <img src="/img/kusto-detective-agency-s2e10-badge.png" height="100" width="100" > 
+
+  <img src="/img/kusto-detective-gold-star.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-sans-holiday-hack-2023-onboa.1.png" height="100" width="100" > 
+  <img src="/img/new-rank-principal-cyber-detective.png" height="100" width="100" > 
   
   <br>
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/Six%20Sigma%20Green%20Belt.svg" height="100" width="100" > 
