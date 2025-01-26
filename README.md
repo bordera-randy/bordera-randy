@@ -15,7 +15,7 @@
 
 ---
 
-I am a Microsoft Certified Trainer (MCT) currently in the Dallas-Fort Worth Metro area, USA. I travel quite a bit and split my time between being a digital nomad and enjoying Texas. Apart from teaching Microsoft Azure classes, I can be found consulting or providing DevOps automation at a medical company. My passion is to find ways to automate the day-to-day, and free myself and colleagues up for more important things. I love to teach and travel.
+I am a Microsoft Certified Trainer (MCT) in the Dallas-Fort Worth Metro area, USA. I travel quite a bit and split my time between being a digital nomad and enjoying Texas. Apart from teaching Microsoft Azure classes, I can be found consulting or providing DevOps automation at a medical company. My passion is to find ways to automate the day-to-day and free myself and my colleagues up for more important things. I love to teach and travel.
 
 I am a seasoned professional and Military Veteran with 20+ years of IT management and technical support experience in various sectors. I have worked mostly with Managed Service Providers in the legal, financial, and energy vectors. I am currently diving into DevOps and Kubernetes to provide SaaS at a global software company.
 
@@ -68,7 +68,8 @@ Or you might catch me trying my hand at fantasy writing
   <img src="/img/kusto-detective-agency-s2e8-badge.png" height="100" width="100" > 
   <img src="/img/kusto-detective-agency-s2e9-badge.png" height="100" width="100" > 
   <img src="/img/kusto-detective-agency-s2e10-badge.png" height="100" width="100" >   
-
+  <br>
+  
   <img src="/img/kusto-detective-gold-star.png" height="100" width="100" >   
   <img src="/img/kusto-detective-agency-sans-holiday-hack-2023-onboa.1.png" height="100" width="100" >   
   <img src="/img/new-rank-principal-cyber-detective.png" height="100" width="100" >   
