@@ -109,9 +109,11 @@ You might also find me trying my hand at fantasy writing. Check out [Books by Ra
 
 ### 🌟 Featured Projects
 
-- [Project 1](https://github.com/bordera-randy/project1): Brief description of project 1.
-- [Project 2](https://github.com/bordera-randy/project2): Brief description of project 2.
-- [Project 3](https://github.com/bordera-randy/project3): Brief description of project 3.
+**COMING SOON!!!!**
+
+- [Azure Landing Zone](https://github.com/bordera-randy/ALZ-Deploy): Deploy the Azure Landing Zone to a green field Azure tenant.
+- [Azure Application Deployment](https://github.com/bordera-randy/AZ-app-deploy): Deployment of a basic app service and related reosurces.
+
 
 ### 📫 Contact Me
 
