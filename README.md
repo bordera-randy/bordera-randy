@@ -71,6 +71,15 @@ You might also find me trying my hand at fantasy writing. Check out [Books by Ra
   <img src="/img/kusto-detective-gold-star.png" height="100" width="100" >   
   <img src="/img/kusto-detective-agency-sans-holiday-hack-2023-onboa.1.png" height="100" width="100" >   
   <img src="/img/new-rank-principal-cyber-detective.png" height="100" width="100" >   
+
+  <br>
+  <img src="/img/kusto-detective-agency-call-of-the-cyber-duty-i-m-i.png" height="100" width="100" >   
+  <br>
+
+  <img src="/img/kusto-detective-agency-fabric-case-1.png" height="100" width="100" >
+  <img src="/img/kusto-detective-agency-fabric-case-2.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-fabric-case-3.png" height="100" width="100" > 
+
   
   <br>
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/Six%20Sigma%20Green%20Belt.svg" height="100" width="100" > 
