@@ -78,7 +78,9 @@ You might also find me trying my hand at fantasy writing. Check out [Books by Ra
 
   <img src="/img/kusto-detective-agency-fabric-case-1.png" height="100" width="100" >
   <img src="/img/kusto-detective-agency-fabric-case-2.png" height="100" width="100" > 
-  <img src="/img/kusto-detective-agency-fabric-case-3.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-fabric-case-3.png" height="100" width="100" >
+  <img src="/img/kusto-detective-agency-fabric-completed.png" height="100" width="100" >
+  
 
   
   <br>
