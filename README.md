@@ -75,7 +75,7 @@ You might also find me trying my hand at fantasy writing. Check out [Books by Ra
   <br>
   <img src="/img/kusto-detective-agency-call-of-the-cyber-duty-i-m-i.png" height="100" width="100" > 
   <img src="/img/kusto-detective-agency-call-of-the-cyber-duty-case-.png" height="100" width="100" > 
-  <img src="/img/kusto-detective-agency-call-of-the-cyber-duty-case-1.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-call-of-the-cyber-duty-case-.1.png" height="100" width="100" > 
   
   <br>
 
