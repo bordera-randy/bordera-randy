@@ -46,6 +46,9 @@ You might also find me trying my hand at fantasy writing. Check out [Books by Ra
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/ms-fundamentals.png" height="100" width="100" > 
   
   <br>
+  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/hashicorp-certified-terraform-associate-003.png" height="100" width="100" > 
+  
+  <br>
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-case-1-badge.1.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-case-2-badge.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-case-3-badge.1.png" height="100" width="100" > 
