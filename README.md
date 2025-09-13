@@ -1,9 +1,8 @@
 👋 Hi, welcome to the rabbit hole!
 
 
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rrbordeaux" target="_blank">Follow on LinkedIn</a>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rrbordeaux/">
+  <a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rrbordeaux">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/rrbordeaux">
