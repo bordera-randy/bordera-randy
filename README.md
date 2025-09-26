@@ -1,5 +1,4 @@
-👋 Hi, welcome to the rabbit hole!
-
+# 👋 Welcome to the Rabbit Hole  
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rrbordeaux">
@@ -16,17 +15,22 @@
 ---
 
 ---
-I am a Microsoft Certified Trainer (MCT) based in the Dallas-Fort Worth Metro area, USA. I often travel, balancing my time between being a digital nomad and enjoying life in Texas. In addition to teaching Microsoft Azure classes, I also consult and provide DevOps automation services. My passion lies in automating daily tasks to free up time for more significant activities. I love teaching and traveling.
+## 🌍 About Me
 
-With over 20 years of IT management and technical support experience, I am a seasoned professional and Military Veteran. I have primarily worked with Managed Service Providers in the legal, financial, and energy sectors. Currently, I am delving into DevOps and CyberSecurity.
+I’m Randy Bordeaux, a Microsoft Certified Trainer (MCT) based in Dallas–Fort Worth, Texas—though I’m just as likely to be teaching from the road as I am at home.
 
-My drive to learn and help others was instilled in me by my grandfather, who established the first computer program at our local community college. I later joined the same program and went on to serve in the U.S. Navy as an IT instructor, among other roles. More recently, I became a Microsoft Certified Trainer specializing in Azure.
+I specialize in Microsoft Azure and DevOps automation, helping organizations streamline operations, embrace cloud-native practices, and stay secure. My passion? Automating the boring stuff so people can focus on what really matters.
 
-When not immersed in IT, I enjoy exploring nature and photography. You can check out some of my photos on my [Photography page](https://randybordeaux.com/).
+With more than 20 years of experience in IT leadership and technical support—and as a proud U.S. Navy Veteran—I’ve worn many hats: instructor, consultant, troubleshooter, and mentor. Today, I focus on Azure, DevOps, and Cybersecurity while still carrying forward the lessons instilled in me by my grandfather, who built the first computer program at our local community college.
 
-You might also find me trying my hand at fantasy writing. Check out [Books by Randy Bordeaux](https://www.amazon.com/author/randybordeaux?ref_=pe_2466670_811284380) for my latest works.
+When I’m not building, teaching, or securing cloud environments, you’ll probably find me:
+
+📸 Exploring the outdoors with a camera in hand — see my Photography page.  
+✍️ Writing fantasy and sci-fi — check out my books.  
+🌍 Traveling as a digital nomad, blending work with discovery.  
 
 ---
+## 🎓 Certifications & Badges
 <br>
 <div style="width:100px ; height:1000px">
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/mct.png" height="100" width="100" > 
@@ -107,7 +111,7 @@ You might also find me trying my hand at fantasy writing. Check out [Books by Ra
 </div> 
 
 
-### 🛠️ Skills & Technologies
+## 🛠️ Skills & Technologies
 
 - **Languages:** Yaml, Terraform, PowerShell
 - **Cloud Platforms:** Microsoft Azure, AWS
@@ -117,7 +121,7 @@ You might also find me trying my hand at fantasy writing. Check out [Books by Ra
 - **Monitoring:** Prometheus, Grafana, DynaTrace, Splunk
 - **Operating Systems:** Windows, Linux, Mac
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bordera-randy&show_icons=true&theme=transparent" alt="GitHub Stats" />
@@ -126,21 +130,20 @@ You might also find me trying my hand at fantasy writing. Check out [Books by Ra
 
 
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bordera-randy&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 ### 🌟 Featured Projects
-
 **COMING SOON!!!!**
-
 - [Azure Landing Zone](https://github.com/bordera-randy/ALZ-Deploy): Deploy the Azure Landing Zone to a green field Azure tenant.
 - [Azure Application Deployment](https://github.com/bordera-randy/AZ-app-deploy): Deployment of a basic app service and related reosurces.
 
 
-### 📫 Contact Me
+## 📫 Contact Me
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/rrbordeaux/) or [Twitter](https://twitter.com/rrbordeaux).
 
+✨ Thanks for stopping by — whether you’re here for cloud engineering, certifications, code, or curiosity, welcome to the rabbit hole!
