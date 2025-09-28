@@ -22,6 +22,7 @@ I’m Randy Bordeaux, an MCT Alumni and cloud engineer based in Dallas–Fort Wo
 I specialize in Microsoft Azure, DevOps automation, and cybersecurity, helping organizations streamline operations, adopt cloud-native practices, and stay secure. My philosophy? Automate the boring stuff so people can focus on what really matters.
 
 With 20+ years in IT leadership and technical support—and as a proud U.S. Navy Veteran—I’ve served as instructor, consultant, troubleshooter, and mentor. Today, I’m focused on Terraform, Azure, and cloud security.
+
 ---  
 
 ## 🎓 Certifications & Badges
