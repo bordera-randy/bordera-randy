@@ -17,19 +17,13 @@
 ---
 ## 🌍 About Me
 
-I’m Randy Bordeaux, a Microsoft Certified Trainer (MCT) based in Dallas–Fort Worth, Texas—though I’m just as likely to be teaching from the road as I am at home.
+I’m Randy Bordeaux, an MCT Alumni and cloud engineer based in Dallas–Fort Worth, Texas.
 
-I specialize in Microsoft Azure and DevOps automation, helping organizations streamline operations, embrace cloud-native practices, and stay secure. My passion? Automating the boring stuff so people can focus on what really matters.
+I specialize in Microsoft Azure, DevOps automation, and cybersecurity, helping organizations streamline operations, adopt cloud-native practices, and stay secure. My philosophy? Automate the boring stuff so people can focus on what really matters.
 
-With more than 20 years of experience in IT leadership and technical support—and as a proud U.S. Navy Veteran—I’ve worn many hats: instructor, consultant, troubleshooter, and mentor. Today, I focus on Azure, DevOps, and Cybersecurity while still carrying forward the lessons instilled in me by my grandfather, who built the first computer program at our local community college.
+With 20+ years in IT leadership and technical support—and as a proud U.S. Navy Veteran—I’ve served as instructor, consultant, troubleshooter, and mentor. Today, I’m focused on Terraform, Azure, and cloud security.
+---  
 
-When I’m not building, teaching, or securing cloud environments, you’ll probably find me:
-
-📸 Exploring the outdoors with a camera in hand — see my Photography page.  
-✍️ Writing fantasy and sci-fi — check out my books.  
-🌍 Traveling as a digital nomad, blending work with discovery.  
-
----
 ## 🎓 Certifications & Badges
 <br>
 <div style="width:100px ; height:1000px">
