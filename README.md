@@ -17,7 +17,7 @@
 ---
 ## 🌍 About Me
 
-I’m Randy Bordeaux, an MCT Alumni and cloud engineer based in Dallas–Fort Worth, Texas.
+I’m Randy Bordeaux, a Microsoft Certified Trainer (MCT) and DevOps Engineer based in Dallas–Fort Worth, Texas.
 
 I specialize in Microsoft Azure, DevOps automation, and cybersecurity, helping organizations streamline operations, adopt cloud-native practices, and stay secure. My philosophy? Automate the boring stuff so people can focus on what really matters.
 
