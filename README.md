@@ -130,12 +130,10 @@ When I’m not building, teaching, or securing cloud environments, you’ll prob
 
 ### 🌟 Featured Projects
 **COMING SOON!!!!**
-- [Azure Landing Zone](https://github.com/bordera-randy/ALZ-Deploy): Deploy the Azure Landing Zone to a green field Azure tenant.
-- [Azure Application Deployment](https://github.com/bordera-randy/AZ-app-deploy): Deployment of a basic app service and related reosurces.
 
 
 ## 📫 Contact Me
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/rrbordeaux/) or [Twitter](https://twitter.com/rrbordeaux).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/rrbordeaux/).
 
 ✨ Thanks for stopping by — whether you’re here for cloud engineering, certifications, code, or curiosity, welcome to the rabbit hole!
