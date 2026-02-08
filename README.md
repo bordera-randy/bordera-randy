@@ -17,20 +17,24 @@
 ---
 ## 🌍 About Me
 
-I’m Randy Bordeaux, a Microsoft Certified Trainer (MCT) and DevOps Engineer based in Dallas–Fort Worth, Texas.
+I’m Randy Bordeaux, a Microsoft Certified Trainer (MCT) based in Dallas–Fort Worth, Texas—though I’m just as likely to be teaching from the road as I am at home.
 
-I specialize in Microsoft Azure, DevOps automation, and cybersecurity, helping organizations streamline operations, adopt cloud-native practices, and stay secure. My philosophy? Automate the boring stuff so people can focus on what really matters.
+I specialize in Microsoft Azure and DevOps automation, helping organizations streamline operations, embrace cloud-native practices, and stay secure. My passion? Automating the boring stuff so people can focus on what really matters.
 
-With 20+ years in IT leadership and technical support—and as a proud U.S. Navy Veteran—I’ve served as instructor, consultant, troubleshooter, and mentor. Today, I’m focused on Terraform, Azure, and cloud security.
+With more than 20 years of experience in IT leadership and technical support—and as a proud U.S. Navy Veteran—I’ve worn many hats: instructor, consultant, troubleshooter, and mentor. Today, I focus on Azure, DevOps, and Cybersecurity while still carrying forward the lessons instilled in me by my grandfather, who built the first computer program at our local community college.
 
----  
+When I’m not building, teaching, or securing cloud environments, you’ll probably find me:
 
+📸 Exploring the outdoors with a camera in hand — see my Photography page.  
+✍️ Writing fantasy and sci-fi — check out my books.  
+🌍 Traveling as a digital nomad, blending work with discovery.  
+
+---
 ## 🎓 Certifications & Badges
 <br>
 <div style="width:100px ; height:1000px">
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/mct.png" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/microsoft-certified-trainer-2023-2024.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/Standard MCT Badge.svg" height="100" width="100" > 
   
   <br>
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/az-solutionsarchitect.png" height="100" width="100" >
@@ -58,42 +62,42 @@ With 20+ years in IT leadership and technical support—and as a proud U.S. Navy
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/Security Agent.png" height="100" width="100" > 
     
   <br>
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-onboarding.1.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e1-badge.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e2-badge.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e3-badge.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e4-badge.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e5-badge.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e6-badge.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e7-badge.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e8-badge.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e9-badge.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-s2e10-badge.png" height="100" width="100" >   
+  <img src="/img/kusto-detective-agency-onboarding.1.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-s2e1-badge.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-s2e2-badge.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-s2e3-badge.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-s2e4-badge.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-s2e5-badge.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-s2e6-badge.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-s2e7-badge.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-s2e8-badge.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-s2e9-badge.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-s2e10-badge.png" height="100" width="100" >   
   <br>
   
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-gold-star.png" height="100" width="100" >   
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-sans-holiday-hack-2023-onboa.1.png" height="100" width="100" >   
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/new-rank-principal-cyber-detective.png" height="100" width="100" >   
+  <img src="/img/kusto-detective-gold-star.png" height="100" width="100" >   
+  <img src="/img/kusto-detective-agency-sans-holiday-hack-2023-onboa.1.png" height="100" width="100" >   
+  <img src="/img/new-rank-principal-cyber-detective.png" height="100" width="100" >   
 
   <br>
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-call-of-the-cyber-duty-i-m-i.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-call-of-the-cyber-duty-case-.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-call-of-the-cyber-duty-case-.1.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-call-of-the-cyber-duty-case-.2.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-call-of-the-cyber-duty-case-.3.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-call-of-the-cyber-duty-case-.4.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-call-of-the-cyber-duty-case-.5.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-call-of-the-cyber-duty-case-.7.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-call-of-the-cyber-duty-case-.8.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-call-of-the-cyber-duty-case-.9.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-call-of-the-cyber-duty-case-.10.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-call-of-the-cyber-duty-i-m-i.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-call-of-the-cyber-duty-case-.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-call-of-the-cyber-duty-case-.1.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-call-of-the-cyber-duty-case-.2.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-call-of-the-cyber-duty-case-.3.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-call-of-the-cyber-duty-case-.4.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-call-of-the-cyber-duty-case-.5.png" height="100" width="100" > 
+  <img src="/img//kusto-detective-agency-call-of-the-cyber-duty-case-.7.png" height="100" width="100" > 
+  <img src="/img//kusto-detective-agency-call-of-the-cyber-duty-case-.8.png" height="100" width="100" > 
+  <img src="/img//kusto-detective-agency-call-of-the-cyber-duty-case-.9.png" height="100" width="100" > 
+  <img src="/img//kusto-detective-agency-call-of-the-cyber-duty-case-.10.png" height="100" width="100" > 
   
   <br>
 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-fabric-case-1.png" height="100" width="100" >
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-fabric-case-2.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-fabric-case-3.png" height="100" width="100" >
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/kusto-detective-agency-fabric-completed.png" height="100" width="100" >
+  <img src="/img/kusto-detective-agency-fabric-case-1.png" height="100" width="100" >
+  <img src="/img/kusto-detective-agency-fabric-case-2.png" height="100" width="100" > 
+  <img src="/img/kusto-detective-agency-fabric-case-3.png" height="100" width="100" >
+  <img src="/img/kusto-detective-agency-fabric-completed.png" height="100" width="100" >
   
 
   
@@ -101,9 +105,9 @@ With 20+ years in IT leadership and technical support—and as a proud U.S. Navy
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/Six%20Sigma%20Green%20Belt.svg" height="100" width="100" > 
   <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/Six%20Sigma%20Yellow%20Belt.svg" height="100" width="100" >
   <br>
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/comptia-a-certification.5.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/comptia-server-certification.4.png" height="100" width="100" > 
-  <img src="https://github.com/bordera-randy/bordera-randy/blob/main/img/comptia-security-certification.3.png" height="100" width="100" > 
+  <img src="/img/comptia-a-certification.5.png" height="100" width="100" > 
+  <img src="/img/comptia-server-certification.4.png" height="100" width="100" > 
+  <img src="/img/comptia-security-certification.3.png" height="100" width="100" > 
 </div> 
 
 
@@ -119,19 +123,11 @@ With 20+ years in IT leadership and technical support—and as a proud U.S. Navy
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bordera-randy&show_icons=true&theme=transparent&count_private=true" alt="GitHub Stats" width="400"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bordera-randy&layout=compact&theme=transparent" alt="Top Languages" width="400"/>
-</div>
-
-<br>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bordera-randy?cardType=github&theme=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bordera-randy&theme=onedark&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=bordera-randy)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🌟 Featured Projects
 **COMING SOON!!!!**
