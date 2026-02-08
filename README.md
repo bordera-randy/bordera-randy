@@ -126,8 +126,7 @@ When I’m not building, teaching, or securing cloud environments, you’ll prob
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/bordera-randy?cardType=github&theme=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=bordera-randy)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=bordera-randy&theme=gruvbox)
 
 ### 🌟 Featured Projects
 **COMING SOON!!!!**
