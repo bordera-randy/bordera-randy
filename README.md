@@ -1,8 +1,7 @@
 # 👋 Welcome to the Rabbit Hole  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=rrbordeaux)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rrbordeaux)
-[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=Website&logoColor=white)](https://randybordeaux.com/)
+
 
 ---
 
