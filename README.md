@@ -1,7 +1,7 @@
 # 👋 Welcome to the Rabbit Hole  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrbordeaux/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrbordeaux/) 
+[![LinkedIn](https://img.shields.io/badge/Website-blue)](https://bordx.net)
 
 ---
 
