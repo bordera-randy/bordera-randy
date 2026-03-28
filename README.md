@@ -56,7 +56,7 @@ I’ve built and supported enterprise-scale environments across regulated indust
 
 <img src="./img/MLCT member seal.png" alt="MCT" width="150" height="150"> <img src="./img/Certified Coach.png" alt="MCT" width="150" height="150"> <img src="./img/Certified Trainer.png" alt="MCT" width="150" height="150">   
 
-<img src="./img/MCT-Badges_MCT-Badge---Certified-Trainer---Logo.png" alt="MCT" width="100" height="100">   
+<img src="./img/MCT-Badges_MCT-Badge---Certified-Trainer---Logo.png" alt="MCT" width="150" height="150">   
 
 <img src="./img/az-solutionsarchitect.png" alt="Azure Solutions Architect" width="100" height="100"> <img src="./img/sc100.png" alt="SC-100" width="100" height="100"> <img src="./img/az-admin.png" alt="Azure Administrator" width="100" height="100"> <img src="./img/az-securityengineer.png" alt="Azure Security Engineer" width="100" height="100"> <img src="./img/az-fundamentals.png" alt="Azure Fundamentals" width="100" height="100"> <img src="./img/security-compliance-and-identity-fundamentals-600x600.png" alt="Security Compliance Identity" width="100" height="100">
 
