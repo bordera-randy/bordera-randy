@@ -3,27 +3,63 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrbordeaux/) 
 [![LinkedIn](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://bordx.net)
 
----
 
----
+
+
 ## 🌍 About Me
 
-I’m Randy Bordeaux, a Microsoft Certified Trainer (MCT) based in Dallas–Fort Worth, Texas—though I’m just as likely to be teaching from the road as I am at home.
+I’m Randy Bordeaux — Azure DevOps Engineer, Microsoft Certified Trainer, and cloud architect focused on building scalable, secure platforms.
 
-I specialize in Microsoft Azure and DevOps automation, helping organizations streamline operations, embrace cloud-native practices, and stay secure. My passion? Automating the boring stuff so people can focus on what really matters.
+I design and automate Azure environments using Terraform and DevOps pipelines, with an emphasis on:  
+- Infrastructure as Code (Terraform-first design)
+- Azure Landing Zones & Management Group architecture
+- Platform engineering & environment standardization
+- Security, governance, and Zero Trust implementation
+- Observability and cost optimization (KQL, Log Analytics)
 
-With more than 20 years of experience in IT leadership and technical support—and as a proud U.S. Navy Veteran—I’ve worn many hats: instructor, consultant, troubleshooter, and mentor. Today, I focus on Azure, DevOps, and Cybersecurity while still carrying forward the lessons instilled in me by my grandfather, who built the first computer program at our local community college.
+I’ve built and supported enterprise-scale environments across regulated industries, aligning cloud architecture with real business constraints—not ideal scenarios.
 
-When I’m not building, teaching, or securing cloud environments, you’ll probably find me:
 
-📸 Exploring the outdoors with a camera in hand — see my Photography page.  
-✍️ Writing fantasy and sci-fi — check out my books.  
-🌍 Traveling as a digital nomad, blending work with discovery.  
 
----
+### ⚙️ What I’m Focused On
+
+- Building repeatable Azure platforms that scale
+- Turning manual infrastructure into automated systems
+- Teaching engineers how to think like architects
+- Applying leadership principles to technical teams
+
+
+
+### 🚀 Current Work
+- Azure Landing Zone architecture (Terraform)
+- AKS platform design and automation
+- DevOps pipeline standardization
+- Observability improvements using KQL
+
+
+
+### 📚 Outside of Tech
+- Writing sci-fi & fantasy
+- Photography and travel
+
+
+
+### 🎯 Key Principle
+
+- Automate what should be repeatable.
+- Standardize what should be predictable.
+- Eliminate what shouldn’t exist.
+
+
+
 ## 🎓 Certifications & Badges
 
-<img src="./img/mct.png" alt="MCT" width="100" height="100"> <img src="./img/microsoft-certified-trainer-2023-2024.png" alt="MCT 2023-2024" width="100" height="100">
+
+<img src="./img/MLCT member seal.png" alt="MCT" width="100" height="100">
+<img src="./img/Certified Coach.png" alt="MCT" width="100" height="100">
+<img src="./img/Certified Trainer.png" alt="MCT" width="100" height="100">   
+
+<img src="./img/MCT-Badges_MCT-Badge---Certified-Trainer---Logo.png" alt="MCT" width="100" height="100">   
 
 <img src="./img/az-solutionsarchitect.png" alt="Azure Solutions Architect" width="100" height="100"> <img src="./img/sc100.png" alt="SC-100" width="100" height="100"> <img src="./img/az-admin.png" alt="Azure Administrator" width="100" height="100"> <img src="./img/az-securityengineer.png" alt="Azure Security Engineer" width="100" height="100"> <img src="./img/az-fundamentals.png" alt="Azure Fundamentals" width="100" height="100"> <img src="./img/security-compliance-and-identity-fundamentals-600x600.png" alt="Security Compliance Identity" width="100" height="100">
 
