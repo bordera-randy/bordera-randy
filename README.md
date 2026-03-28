@@ -54,9 +54,7 @@ I’ve built and supported enterprise-scale environments across regulated indust
 
 ## 🎓 Certifications & Badges
 
-<img src="./img/MLCT member seal.png" alt="MCT" width="100" height="100">
-<img src="./img/Certified Coach.png" alt="MCT" width="100" height="100">
-<img src="./img/Certified Trainer.png" alt="MCT" width="100" height="100">   
+<img src="./img/MLCT member seal.png" alt="MCT" width="100" height="100"> <img src="./img/Certified Coach.png" alt="MCT" width="100" height="100"> <img src="./img/Certified Trainer.png" alt="MCT" width="100" height="100">   
 
 <img src="./img/MCT-Badges_MCT-Badge---Certified-Trainer---Logo.png" alt="MCT" width="100" height="100">   
 
