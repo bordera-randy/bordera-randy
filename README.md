@@ -53,16 +53,11 @@ I build cloud platforms that hold up under pressure — and I coach technical pe
 
 ### Maxwell Leadership — John Maxwell Team
 
-<img src="./img/MLCT member seal.png" alt="John Maxwell Team member seal" width="130" height="130">
-<img src="./img/Certified Coach.png" alt="Maxwell Certified Leadership Coach" width="130" height="130">
-<img src="./img/Certified Trainer.png" alt="Maxwell Certified Leadership Trainer" width="130" height="130">
-<img src="./img/Certified Speaker.png" alt="Maxwell Certified Leadership Speaker" width="130" height="130">
+<img src="./img/MLCT member seal.png" alt="John Maxwell Team member seal" width="130" height="130"> <img src="./img/Certified Coach.png" alt="Maxwell Certified Leadership Coach" width="130" height="130"> <img src="./img/Certified Trainer.png" alt="Maxwell Certified Leadership Trainer" width="130" height="130"> <img src="./img/Certified Speaker.png" alt="Maxwell Certified Leadership Speaker" width="130" height="130">
 
 ### Microsoft — Trainer
 
-<img src="./img/mct.png" alt="Microsoft Certified Trainer" width="100" height="100">
-<img src="./img/microsoft-certified-trainer-2023-2024.png" alt="Microsoft Certified Trainer 2023-2024" width="100" height="100">
-<img src="./img/MCT-Badges_MCT-Badge---Certified-Trainer---Logo.png" alt="Microsoft Certified Trainer badge" width="100" height="100">
+<img src="./img/mct.png" alt="Microsoft Certified Trainer" width="100" height="100"> <img src="./img/microsoft-certified-trainer-2023-2024.png" alt="Microsoft Certified Trainer 2023-2024" width="100" height="100"> <img src="./img/MCT-Badges_MCT-Badge---Certified-Trainer---Logo.png" alt="Microsoft Certified Trainer badge" width="100" height="100">
 
 ### Azure & Microsoft 365
 
