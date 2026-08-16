@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rrbordeaux/)
 [![bordx.net](https://img.shields.io/badge/bordx.net-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bordx.net/)
 
+
 ---
 
 ## About Me
@@ -55,53 +56,17 @@ I build cloud platforms that hold up under pressure — and I coach technical pe
 
 <img src="./img/MLCT member seal.png" alt="John Maxwell Team member seal" width="130" height="130"> <img src="./img/Certified Coach.png" alt="Maxwell Certified Leadership Coach" width="130" height="130"> <img src="./img/Certified Trainer.png" alt="Maxwell Certified Leadership Trainer" width="130" height="130"> <img src="./img/Certified Speaker.png" alt="Maxwell Certified Leadership Speaker" width="130" height="130">
 
-### Microsoft — Trainer
+### Microsoft  
 
-<img src="./img/mct.png" alt="Microsoft Certified Trainer" width="100" height="100"> <img src="./img/microsoft-certified-trainer-2023-2024.png" alt="Microsoft Certified Trainer 2023-2024" width="100" height="100"> <img src="./img/MCT-Badges_MCT-Badge---Certified-Trainer---Logo.png" alt="Microsoft Certified Trainer badge" width="100" height="100">
-
-### Azure & Microsoft 365
-
-<img src="./img/az-solutionsarchitect.png" alt="Azure Solutions Architect" width="90" height="90">
-<img src="./img/sc100.png" alt="Microsoft Cybersecurity Architect Expert SC-100" width="90" height="90">
-<img src="./img/az-admin.png" alt="Azure Administrator" width="90" height="90">
-<img src="./img/az-securityengineer.png" alt="Azure Security Engineer" width="90" height="90">
-<img src="./img/az-fundamentals.png" alt="Azure Fundamentals" width="90" height="90">
-<img src="./img/security-compliance-and-identity-fundamentals-600x600.png" alt="Security Compliance and Identity Fundamentals" width="90" height="90">
-<img src="./img/ms-enterpriseadmin.png" alt="Microsoft 365 Enterprise Administrator" width="90" height="90">
-<img src="./img/ms-TeamsAdministrator.png" alt="Microsoft Teams Administrator" width="90" height="90">
-<img src="./img/ms-fundamentals.png" alt="Microsoft 365 Fundamentals" width="90" height="90">
+<img src="./img/mct.png" alt="Microsoft Certified Trainer" width="100" height="100"> <img src="./img/microsoft-certified-trainer-2023-2024.png" alt="Microsoft Certified Trainer 2023-2024" width="100" height="100"> <img src="./img/MCT-Badges_MCT-Badge---Certified-Trainer---Logo.png" alt="Microsoft Certified Trainer badge" width="100" height="100"> <img src="./img/az-solutionsarchitect.png" alt="Azure Solutions Architect" width="90" height="90"> <img src="./img/sc100.png" alt="Microsoft Cybersecurity Architect Expert SC-100" width="90" height="90"> <img src="./img/az-admin.png" alt="Azure Administrator" width="90" height="90"> <img src="./img/az-securityengineer.png" alt="Azure Security Engineer" width="90" height="90"> <img src="./img/az-fundamentals.png" alt="Azure Fundamentals" width="90" height="90"> <img src="./img/security-compliance-and-identity-fundamentals-600x600.png" alt="Security Compliance and Identity Fundamentals" width="90" height="90"> <img src="./img/ms-enterpriseadmin.png" alt="Microsoft 365 Enterprise Administrator" width="90" height="90"> <img src="./img/ms-TeamsAdministrator.png" alt="Microsoft Teams Administrator" width="90" height="90"> <img src="./img/ms-fundamentals.png" alt="Microsoft 365 Fundamentals" width="90" height="90">
 
 ### Infrastructure & IT Foundations
 
-<img src="./img/hashicorp-certified-terraform-associate-003.png" alt="HashiCorp Terraform Associate" width="90" height="90">
-<img src="./img/comptia-a-certification.5.png" alt="CompTIA A+" width="90" height="90">
-<img src="./img/comptia-server-certification.4.png" alt="CompTIA Server+" width="90" height="90">
-<img src="./img/comptia-security-certification.3.png" alt="CompTIA Security+" width="90" height="90">
-<img src="./img/Six%20Sigma%20Green%20Belt.svg" alt="Six Sigma Green Belt" width="90" height="90">
-<img src="./img/Six%20Sigma%20Yellow%20Belt.svg" alt="Six Sigma Yellow Belt" width="90" height="90">
+<img src="./img/hashicorp-certified-terraform-associate-003.png" alt="HashiCorp Terraform Associate" width="90" height="90"> <img src="./img/comptia-a-certification.5.png" alt="CompTIA A+" width="90" height="90"> <img src="./img/comptia-server-certification.4.png" alt="CompTIA Server+" width="90" height="90"> <img src="./img/comptia-security-certification.3.png" alt="CompTIA Security+" width="90" height="90"> <img src="./img/Six%20Sigma%20Green%20Belt.svg" alt="Six Sigma Green Belt" width="90" height="90"> <img src="./img/Six%20Sigma%20Yellow%20Belt.svg" alt="Six Sigma Yellow Belt" width="90" height="90">
 
 ### Kusto Detective Agency
 
-<img src="./img/kusto-detective-agency-complete.png" alt="Kusto Detective Agency Complete" width="80" height="80">
-<img src="./img/kusto-detective-gold-star.png" alt="Kusto Detective Gold Star" width="80" height="80">
-<img src="./img/new-rank-principal-cyber-detective.png" alt="Principal Cyber Detective" width="80" height="80">
-<img src="./img/Security%20Agent.png" alt="Security Agent" width="80" height="80">
-<img src="./img/kusto-detective-agency-case-1-badge.1.png" alt="Kusto Case 1" width="80" height="80">
-<img src="./img/kusto-detective-agency-case-2-badge.png" alt="Kusto Case 2" width="80" height="80">
-<img src="./img/kusto-detective-agency-case-3-badge.1.png" alt="Kusto Case 3" width="80" height="80">
-<img src="./img/kusto-detective-agency-case-4-badge.png" alt="Kusto Case 4" width="80" height="80">
-<img src="./img/kusto-detective-agency-case-5-badge.png" alt="Kusto Case 5" width="80" height="80">
-<img src="./img/kusto-detective-agency-s2e1-badge.png" alt="Kusto S2E1" width="80" height="80">
-<img src="./img/kusto-detective-agency-s2e2-badge.png" alt="Kusto S2E2" width="80" height="80">
-<img src="./img/kusto-detective-agency-s2e3-badge.png" alt="Kusto S2E3" width="80" height="80">
-<img src="./img/kusto-detective-agency-s2e4-badge.png" alt="Kusto S2E4" width="80" height="80">
-<img src="./img/kusto-detective-agency-s2e5-badge.png" alt="Kusto S2E5" width="80" height="80">
-<img src="./img/kusto-detective-agency-s2e6-badge.png" alt="Kusto S2E6" width="80" height="80">
-<img src="./img/kusto-detective-agency-s2e7-badge.png" alt="Kusto S2E7" width="80" height="80">
-<img src="./img/kusto-detective-agency-s2e8-badge.png" alt="Kusto S2E8" width="80" height="80">
-<img src="./img/kusto-detective-agency-s2e9-badge.png" alt="Kusto S2E9" width="80" height="80">
-<img src="./img/kusto-detective-agency-s2e10-badge.png" alt="Kusto S2E10" width="80" height="80">
-<img src="./img/kusto-detective-agency-fabric-completed.png" alt="Fabric Detective Complete" width="80" height="80">
+<img src="./img/kusto-detective-agency-complete.png" alt="Kusto Detective Agency Complete" width="80" height="80"> <img src="./img/kusto-detective-gold-star.png" alt="Kusto Detective Gold Star" width="80" height="80"> <img src="./img/new-rank-principal-cyber-detective.png" alt="Principal Cyber Detective" width="80" height="80"> <img src="./img/Security%20Agent.png" alt="Security Agent" width="80" height="80"> <img src="./img/kusto-detective-agency-case-1-badge.1.png" alt="Kusto Case 1" width="80" height="80"> <img src="./img/kusto-detective-agency-case-2-badge.png" alt="Kusto Case 2" width="80" height="80"> <img src="./img/kusto-detective-agency-case-3-badge.1.png" alt="Kusto Case 3" width="80" height="80"> <img src="./img/kusto-detective-agency-case-4-badge.png" alt="Kusto Case 4" width="80" height="80"> <img src="./img/kusto-detective-agency-case-5-badge.png" alt="Kusto Case 5" width="80" height="80"> <img src="./img/kusto-detective-agency-s2e1-badge.png" alt="Kusto S2E1" width="80" height="80"> <img src="./img/kusto-detective-agency-s2e2-badge.png" alt="Kusto S2E2" width="80" height="80"> <img src="./img/kusto-detective-agency-s2e3-badge.png" alt="Kusto S2E3" width="80" height="80"> <img src="./img/kusto-detective-agency-s2e4-badge.png" alt="Kusto S2E4" width="80" height="80"> <img src="./img/kusto-detective-agency-s2e5-badge.png" alt="Kusto S2E5" width="80" height="80"> <img src="./img/kusto-detective-agency-s2e6-badge.png" alt="Kusto S2E6" width="80" height="80"> <img src="./img/kusto-detective-agency-s2e7-badge.png" alt="Kusto S2E7" width="80" height="80"> <img src="./img/kusto-detective-agency-s2e8-badge.png" alt="Kusto S2E8" width="80" height="80"> <img src="./img/kusto-detective-agency-s2e9-badge.png" alt="Kusto S2E9" width="80" height="80"> <img src="./img/kusto-detective-agency-s2e10-badge.png" alt="Kusto S2E10" width="80" height="80"> <img src="./img/kusto-detective-agency-fabric-completed.png" alt="Fabric Detective Complete" width="80" height="80">
 
 ---
 
